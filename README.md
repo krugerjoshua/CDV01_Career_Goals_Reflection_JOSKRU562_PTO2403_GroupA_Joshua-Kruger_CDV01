@@ -1,36 +1,29 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# Career Goals Reflection
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Joshua Kruger**
+- **Date: May 2024**
+- **Current Role/Position: Sales Agent/Student**
+- **Field of Interest: Software Developer**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
+   
+    - Python
+    - Java
+    - MS Office
+    - CRM
+    - Teamwork
+    - Communication
+    - Adaptability
+    - Attention to detail
+    - Accountability
+      
+3. **Interests and Values**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
 
 ### Part 2: Career Exploration Insights
 
